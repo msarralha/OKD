@@ -1,0 +1,16 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import HeroBanner from '../../components/HeroBanner.astro';
+import CourseCard from '../../components/CourseCard.astro';
+---
+<BaseLayout>
+  <HeroBanner />
+  <section class="py-10 px-4 max-w-6xl mx-auto">
+    <h2 class="text-2xl font-bold mb-6">Popular Courses</h2>
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+      <CourseCard title="EMV & Open-Loop Introduction" href="/en/course/emv-intro" />
+      <CourseCard title="Implementing Open Loop in Transit" href="/en/course/emv-implement" />
+      <CourseCard title="EMV for Executives" href="/en/course/emv-executives" />
+    </div>
+  </section>
+</BaseLayout>
