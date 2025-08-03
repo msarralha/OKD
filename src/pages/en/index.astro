@@ -1,16 +1,27 @@
 ---
-import BaseLayout from '../../layouts/BaseLayout.astro';
-import HeroBanner from '../../components/HeroBanner.astro';
-import CourseCard from '../../components/CourseCard.astro';
+import Layout from '../../layouts/Layout.astro';
 ---
-<BaseLayout>
-  <HeroBanner />
-  <section class="py-10 px-4 max-w-6xl mx-auto">
-    <h2 class="text-2xl font-bold mb-6">Popular Courses</h2>
-    <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-      <CourseCard title="EMV & Open-Loop Introduction" href="/en/course/emv-intro" />
-      <CourseCard title="Implementing Open Loop in Transit" href="/en/course/emv-implement" />
-      <CourseCard title="EMV for Executives" href="/en/course/emv-executives" />
-    </div>
-  </section>
-</BaseLayout>
+
+<Layout>
+  <h1 class="text-4xl font-bold mb-4">Open Loop Payments Academy</h1>
+  <p class="mb-8">Explore our comprehensive training programs to empower public transport authorities with EMV-based open loop solutions.</p>
+
+  <h2 class="text-2xl font-semibold mb-2">Courses</h2>
+  <ul class="space-y-4">
+    <li>
+      <h3 class="text-xl font-semibold">Introduction to EMV in Public Transport</h3>
+      <p class="mb-1">Understand the fundamentals of contactless EMV and its application in mass transit.</p>
+      <a href="/en/course/emv-intro" class="text-blue-600 hover:underline">Learn more and enroll →</a>
+    </li>
+    <li>
+      <h3 class="text-xl font-semibold">Open Loop Payments for Transit Authorities</h3>
+      <p class="mb-1">Gain insights into deploying EMV systems in your transport network.</p>
+      <a href="/en/course/open-loop-transit" class="text-blue-600 hover:underline">Learn more and enroll →</a>
+    </li>
+    <li>
+      <h3 class="text-xl font-semibold">EMV for Executives & Decision Makers</h3>
+      <p class="mb-1">Strategic overview of benefits, business models, and success cases.</p>
+      <a href="/en/course/emv-executives" class="text-blue-600 hover:underline">Learn more and enroll →</a>
+    </li>
+  </ul>
+</Layout>
