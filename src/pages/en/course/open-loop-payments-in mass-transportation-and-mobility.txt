@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/Layout.astro
+title: "Open-Loop Payments in Mass Transportation and Mobility"
+description: "Explore the open-loop model, its architecture, stakeholders, and why it's transforming urban mobility."
+---
+
+<h1>Open-Loop Payments in Transit Systems</h1>
+
+<p>Open-loop payments allow passengers to use their bank-issued EMV cards or digital wallets to access public transportation, eliminating the need for dedicated transit cards. This model is gaining traction globally for its flexibility, scalability, and customer convenience.</p>
+
+<h2>Key Topics</h2>
+<ul>
+  <li>What is an open-loop payment system?</li>
+  <li>How EMV-based fare collection differs from legacy systems</li>
+  <li>System architecture, including acquirers, PSPs, aggregators, and validators</li>
+  <li>Implementation models: Aggregated vs. Instant Fare Collection</li>
+  <li>Benefits to municipalities, operators, and riders</li>
+</ul>
+
+<p>This training is tailored for transit agencies, consultants, solution providers, and smart city professionals seeking to modernize urban mobility with inclusive, interoperable fare collection systems.</p>

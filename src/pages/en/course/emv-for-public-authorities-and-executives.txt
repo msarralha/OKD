@@ -1,0 +1,20 @@
+--
+layout: ../../layouts/Layout.astro
+title: "EMV for Public Authorities and Executives and Leaders"
+description: "Strategic overview of EMV in transit for public authorities and executives"
+---
+
+<h1>EMV & Mobility for Executives and Leaders</h1>
+
+<p>This executive training offers a high-level understanding of EMV and open-loop payments, focusing on strategic, financial, and governance aspects relevant to decision-makers in mobility and urban infrastructure.</p>
+
+<h2>Executive Insights</h2>
+<ul>
+  <li>Why cities are moving toward open payment ecosystems</li>
+  <li>Cost-benefit analysis vs. traditional systems</li>
+  <li>Institutional models: Public-Private Partnerships, SaaS, white label</li>
+  <li>Data-driven decision making and mobility-as-a-service (MaaS)</li>
+  <li>Overcoming resistance from incumbent AFC providers</li>
+</ul>
+
+<p>Designed for public authorities such as mayors, mobility secretaries and executives such as c-level executives, board members, and institutional partners evaluating the future of transportation payments in their region.</p>

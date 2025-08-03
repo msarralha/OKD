@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/Layout.astro
+title: "Pagos Abiertos en el Transporte"
+description: "Explore el modelo de pago abierto, su arquitectura, actores involucrados e impacto en la movilidad urbana."
+---
+
+<h1>Pagos Abiertos en el Transporte</h1>
+
+<p>Los pagos abiertos permiten a los pasajeros utilizar sus tarjetas bancarias EMV o billeteras digitales para acceder al transporte público, eliminando la necesidad de tarjetas específicas del sistema. Este modelo está ganando tracción mundial por su flexibilidad, escalabilidad y conveniencia para el usuario.</p>
+
+<h2>Temas principales</h2>
+<ul>
+  <li>¿Qué es un sistema de pago abierto (open-loop)?</li>
+  <li>Diferencias entre EMV y sistemas tradicionales de boletaje</li>
+  <li>Arquitectura del sistema: adquirientes, PSPs, validadores, agregadores</li>
+  <li>Modelos de implementación: Agregado vs. Pago instantáneo</li>
+  <li>Beneficios para gobiernos, operadores y pasajeros</li>
+</ul>
+
+<p>Este curso está diseñado para agencias de transporte, consultores, proveedores de soluciones y profesionales de ciudades inteligentes que buscan modernizar la movilidad con sistemas abiertos e interoperables.</p>

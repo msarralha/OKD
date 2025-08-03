@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/Layout.astro
+title: "EMV y Movilidad para Ejecutivos y Líderes"
+description: "Visión estratégica del EMV en el transporte para gestores públicos y líderes del sector de movilidad."
+---
+
+<h1>EMV y Movilidad para Ejecutivos y Líderes</h1>
+
+<p>Esta capacitación ejecutiva ofrece una visión de alto nivel sobre los pagos EMV y el modelo open-loop, enfocándose en aspectos estratégicos, financieros y de gobernanza relevantes para gestores y tomadores de decisiones en el transporte urbano.</p>
+
+<h2>Perspectiva ejecutiva</h2>
+<ul>
+  <li>Por qué las ciudades están migrando a ecosistemas de pago abiertos</li>
+  <li>Análisis costo-beneficio comparado con sistemas tradicionales</li>
+  <li>Modelos institucionales: APPs, SaaS, marca blanca</li>
+  <li>Uso de datos para decisiones e integración con MaaS</li>
+  <li>Cómo superar la resistencia de proveedores tradicionales</li>
+</ul>
+
+<p>Dirigido a alcaldes, secretarios de movilidad, asesores y socios institucionales que evalúan el futuro de los pagos en el transporte urbano.</p>

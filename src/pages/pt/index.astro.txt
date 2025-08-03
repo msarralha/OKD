@@ -1,0 +1,33 @@
+---
+import Layout from '../../layouts/Layout.astro';
+---
+
+<Layout lang="pt">
+  <section class="hero">
+    <h1>Empoderando a América Latina com Pagamentos EMV Open Loop</h1>
+    <p>Abra Sua Mente para o Open Loop</p>
+    <a href="/pt/courses" class="button">Explorar Cursos</a>
+  </section>
+
+  <section class="courses">
+    <h2>Cursos Populares</h2>
+    <ul class="course-list">
+      <li>
+        <h3>Introdução ao EMV & Open-Loop</h3>
+        <a href="/pt/courses/emv-intro">Saiba mais e inscreva-se →</a>
+      </li>
+      <li>
+        <h3>Implementando Open Loop no Transporte</h3>
+        <a href="/pt/courses/open-loop-transit">Saiba mais e inscreva-se →</a>
+      </li>
+      <li>
+        <h3>EMV para Executivos</h3>
+        <a href="/pt/courses/emv-executives">Saiba mais e inscreva-se →</a>
+      </li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>© 2025 Open Loop Payments. Todos os direitos reservados.</p>
+  </footer>
+</Layout>
